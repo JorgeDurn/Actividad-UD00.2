@@ -1,0 +1,2 @@
+Prueba 1,Prueba1,M
+Prueba 2,Prueba2,F,7,2
